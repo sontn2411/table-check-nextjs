@@ -1,0 +1,553 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1137 549" width="1137" height="549">
+	<style>
+		.s0 { fill: none;stroke: #8e4ae7;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+		.s1 { fill: #8e4ae7;stroke: #8e4ae7;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2 } 
+		.s2 { fill: none;stroke: #8e4ae7;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s0" d="m452.32 267.13l166.88-175.35c0 0 3.17-5.62 45.3-5.62 42.13 0 48.05 5.62 48.05 5.62l412.13 428.72"/>
+						<path id="&lt;Path&gt;" class="s0" d="m460.57 275.85l155.11-166.25"/>
+						<path id="&lt;Path&gt;" class="s0" d="m550.85 207.69l57.85-74.47"/>
+						<path id="&lt;Path&gt;" class="s0" d="m664.5 106.47c0 0 0.59 59.29 10.72 91.82"/>
+						<path id="&lt;Path&gt;" class="s0" d="m741.74 137.56l93.27 99.78"/>
+						<path id="&lt;Path&gt;" class="s0" d="m791.63 207.69l88.21 96.89"/>
+						<path id="&lt;Path&gt;" class="s0" d="m551.58 338.11l6.68-28.46"/>
+						<path id="&lt;Path&gt;" class="s0" d="m771.38 278.55l65.7 98.99"/>
+						<path id="&lt;Path&gt;" class="s0" d="m783.67 309.65l43.29 67.89"/>
+						<path id="&lt;Path&gt;" class="s0" d="m621.69 258.58c19.47-7.76 40.93-14.63 60.03-14.01 44.83 1.45 56.4 28.2 76.65 25.31 20.24-2.89 31.81-23.14 47.72-18.8 15.91 4.34 50.6 26.11 58.56 0.04"/>
+						<path id="&lt;Path&gt;" class="s0" d="m594.59 270.05q3.5-1.5 7.23-3.12"/>
+						<path id="&lt;Path&gt;" class="s0" d="m594.59 263.44q3.5-1.51 7.23-3.12"/>
+						<path id="&lt;Path&gt;" class="s0" d="m531.46 263.44c13.12 2.89 20.27 11.57 33.13 15.28 2.24 0.65 5.51 0.24 9.62-0.9"/>
+						<path id="&lt;Path&gt;" class="s0" d="m504.73 269.73c2.1-1.22 4.2-2.41 6.32-3.45"/>
+						<path id="&lt;Path&gt;" class="s0" d="m462.77 256.14c0 0-0.13 20.24 16.5 22.41q2.39 0.31 4.7 0.07"/>
+						<path id="&lt;Path&gt;" class="s0" d="m758.37 262.69c20.24-2.9 31.81-23.14 47.72-18.8 15.91 4.33 43.11 25.46 51.08-0.61"/>
+						<path id="&lt;Path&gt;" class="s0" d="m621.69 251.39c19.47-7.76 40.93-14.63 60.03-14.01 11.21 0.36 20.34 2.3 28.04 4.97"/>
+						<path id="&lt;Path&gt;" class="s0" d="m564.59 271.53c2.24 0.65 5.51 0.24 9.61-0.9"/>
+					</g>
+					<path id="&lt;Path&gt;" class="s0" d="m622.95 94.7c0 0 12.68 5.9 41.55 5.9 28.87 0 42.72-5.9 42.72-5.9"/>
+					<path id="&lt;Path&gt;" class="s0" d="m628.15 96.47c0 0 36.35-8.07 71.63 0"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m376.31 520.5h-97.63c0 0-14.2-58.22-14.2-151.42 0-93.19 14.2-151.42 14.2-151.42h97.63c0 0 14.2 63.26 10.65 151.42-3.55 88.17-10.65 151.42-10.65 151.42z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m350.93 217.66v302.84"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 227.84h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 239.11h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 250.38h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 261.65h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 272.92h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 284.19h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 295.46h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 306.73h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 318h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 329.27h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 340.54h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 351.81h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 363.08h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 374.35h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 385.62h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 396.89h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 408.15h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 419.42h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 430.69h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 441.96h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 453.23h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 464.5h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 475.77h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 487.04h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 498.31h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m293.43 509.58h57.5"/>
+							<path id="&lt;Path&gt;" class="s0" d="m278.68 217.66v302.84"/>
+							<path id="&lt;Path&gt;" class="s0" d="m376.31 217.66v302.84"/>
+							<path id="&lt;Path&gt;" class="s0" d="m322.18 217.66v-26.64l82.98-15.48v344.96h-28.85"/>
+							<path id="&lt;Path&gt;" class="s0" d="m338.02 188.06v29.6"/>
+							<path id="&lt;Path&gt;" class="s0" d="m322.18 195.75l82.98-15.79"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m462.22 520.5h-35.34l11.78-380.43h8.16z"/>
+							<path id="&lt;Path&gt;" class="s1" d="m451.9 265.47h-17.12l-15.28-23.04h46.34z"/>
+							<path id="&lt;Path&gt;" class="s1" d="m449.8 198.27h-13.23l-11.8-18.31h35.8z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m442.67 140.07v-40.08"/>
+							<path id="&lt;Path&gt;" class="s0" d="m434.46 275.85h17.86"/>
+							<path id="&lt;Path&gt;" class="s0" d="m434.46 286.22h17.86"/>
+							<path id="&lt;Path&gt;" class="s0" d="m434.46 296.6h17.86"/>
+							<path id="&lt;Path&gt;" class="s0" d="m433.2 306.98h20.38"/>
+							<path id="&lt;Path&gt;" class="s0" d="m433.55 317.35h20.45"/>
+							<path id="&lt;Path&gt;" class="s0" d="m433.2 327.73h21.22"/>
+							<path id="&lt;Path&gt;" class="s0" d="m432.51 338.11h22.33"/>
+							<path id="&lt;Path&gt;" class="s0" d="m432.51 348.49h22.75"/>
+							<path id="&lt;Path&gt;" class="s0" d="m432.51 358.86h23.17"/>
+							<path id="&lt;Path&gt;" class="s0" d="m431.55 369.24h24.55"/>
+							<path id="&lt;Path&gt;" class="s0" d="m431.55 379.62h24.99"/>
+							<path id="&lt;Path&gt;" class="s0" d="m431 389.99h25.54"/>
+							<path id="&lt;Path&gt;" class="s0" d="m431 400.37h26.34"/>
+							<path id="&lt;Path&gt;" class="s0" d="m430.28 410.75h27.06"/>
+							<path id="&lt;Path&gt;" class="s0" d="m429.43 421.12h27.91"/>
+							<path id="&lt;Path&gt;" class="s0" d="m429.43 431.5h29.19"/>
+							<path id="&lt;Path&gt;" class="s0" d="m429.43 441.88h29.61"/>
+							<path id="&lt;Path&gt;" class="s0" d="m429.43 452.25h29.61"/>
+							<path id="&lt;Path&gt;" class="s0" d="m429.43 462.63h30.45"/>
+							<path id="&lt;Path&gt;" class="s0" d="m427.94 472.18h32.35"/>
+							<path id="&lt;Path&gt;" class="s0" d="m427.69 482.56h33"/>
+							<path id="&lt;Path&gt;" class="s0" d="m427.94 492.11h33.61"/>
+							<path id="&lt;Path&gt;" class="s0" d="m427.94 502.49h33.61"/>
+							<path id="&lt;Path&gt;" class="s0" d="m450.43 509.08h-13.81v11.42h13.81z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m610.54 337.34h12.72v183.16h-146.57v-183.16h17.34"/>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s0" d="m577.46 520.5h-49.26v-183.16h49.26z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m528.2 502.41h49.26"/>
+								<path id="&lt;Path&gt;" class="s0" d="m541.39 520.5h-5.81v-18.09h5.81z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m571.51 520.5h-5.81v-18.09h5.81z"/>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 498.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 498.29h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 498.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 498.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 498.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 498.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 498.29h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 487.66h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 487.66h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 487.66h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 487.66h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 487.66h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 487.66h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 487.66h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 477.04h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 477.04h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 477.04h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 477.04h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 477.04h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 477.04h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 477.04h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 466.41h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 466.41h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 466.41h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 466.41h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 466.41h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 466.41h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 466.41h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 455.79h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 455.79h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 455.79h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 455.79h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 455.79h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 455.79h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 455.79h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 445.17h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 445.17h-3.45v-7.77h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 445.17h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 445.17h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 445.17h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 445.17h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 445.17h-3.44v-7.77h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 434.54h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 434.54h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 434.54h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 434.54h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 434.54h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 434.54h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 434.54h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 423.92h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 423.92h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 423.92h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 423.92h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 423.92h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 423.92h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 423.92h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 413.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 413.29h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 413.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 413.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 413.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 413.29h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 413.29h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 402.67h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 402.67h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 402.67h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 402.67h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 402.67h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 402.67h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 402.67h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 392.05h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 392.05h-3.45v-7.77h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 392.05h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 392.05h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 392.05h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 392.05h-3.44v-7.77h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 392.05h-3.44v-7.77h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 381.42h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 381.42h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 381.42h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 381.42h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 381.42h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 381.42h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 381.42h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 370.8h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 370.8h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 370.8h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 370.8h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 370.8h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 370.8h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 370.8h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 360.17h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 360.17h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 360.17h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 360.17h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 360.17h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 360.17h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 360.17h-3.44v-7.76h3.44z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m535.84 349.55h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m542.08 349.55h-3.45v-7.76h3.45z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m548.31 349.55h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m554.55 349.55h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m560.79 349.55h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m567.03 349.55h-3.44v-7.76h3.44z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m573.27 349.55h-3.44v-7.76h3.44z"/>
+								</g>
+							</g>
+							<g id="&lt;Group&gt;">
+								<g id="&lt;Group&gt;">
+									<g id="&lt;Group&gt;">
+										<path id="&lt;Path&gt;" class="s0" d="m520.3 469.28h-25.17v51.22h25.17z"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 474.29h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 480.21h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 486.13h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 492.05h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 497.97h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 503.89h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 509.81h25.17"/>
+										<path id="&lt;Path&gt;" class="s0" d="m495.13 515.73h25.17"/>
+									</g>
+									<path id="&lt;Path&gt;" class="s0" d="m520.3 299.29c0 0-2.75-3.54-12.59-3.54-9.83 0-12.58 3.54-12.58 3.54v169.99h25.17z"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 299.29h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 305.97h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 312.65h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 319.33h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 326.01h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 332.69h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 339.36h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 346.04h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 352.72h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 359.4h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 366.08h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 372.76h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 379.43h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 386.11h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 392.79h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 399.47h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 406.15h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 412.83h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 419.51h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 426.18h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 432.86h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 439.54h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 446.22h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 452.9h25.17"/>
+									<path id="&lt;Path&gt;" class="s0" d="m495.13 459.58h25.17"/>
+								</g>
+								<path id="&lt;Path&gt;" class="s0" d="m498.73 297.11v223.39"/>
+								<path id="&lt;Path&gt;" class="s0" d="m504.73 295.75v224.75"/>
+								<path id="&lt;Path&gt;" class="s0" d="m516.55 296.36v224.14"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<g id="&lt;Group&gt;">
+									<g id="&lt;Group&gt;">
+										<path id="&lt;Path&gt;" class="s0" d="m610.54 469.28h-25.18v51.22h25.18z"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 474.29h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 480.21h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 486.13h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 492.05h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 497.97h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 503.89h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 509.81h25.18"/>
+										<path id="&lt;Path&gt;" class="s0" d="m585.36 515.73h25.18"/>
+									</g>
+									<path id="&lt;Path&gt;" class="s0" d="m610.54 299.29c0 0-2.76-3.54-12.59-3.54-9.83 0-12.59 3.54-12.59 3.54v169.99h25.18z"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 299.29h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 305.97h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 312.65h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 319.33h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 326.01h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 332.69h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 339.36h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 346.04h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 352.72h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 359.4h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 366.08h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 372.76h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 379.43h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 386.11h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 392.79h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 399.47h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 406.15h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 412.83h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 419.51h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 426.18h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 432.86h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 439.54h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 446.22h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 452.9h25.18"/>
+									<path id="&lt;Path&gt;" class="s0" d="m585.36 459.58h25.18"/>
+								</g>
+								<path id="&lt;Path&gt;" class="s0" d="m588.97 297.11v223.39"/>
+								<path id="&lt;Path&gt;" class="s0" d="m594.96 295.75v224.75"/>
+								<path id="&lt;Path&gt;" class="s0" d="m606.62 296.36v224.14"/>
+							</g>
+							<path id="&lt;Path&gt;" class="s0" d="m520.3 337.34h65.06"/>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s0" d="m504.38 295.75v-67.53l-20.41 21.29v87.83"/>
+								<path id="&lt;Path&gt;" class="s0" d="m511.05 295.75v-67.53l20.41 21.29v87.83"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s0" d="m594.61 295.75v-67.53l-20.41 21.29v87.83"/>
+								<path id="&lt;Path&gt;" class="s0" d="m601.29 295.75v-67.53l20.4 21.29v87.83"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s0" d="m722.38 434.42h-16.88v-39.39h16.88z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m722.38 430.59h59.09v10.48h-135.82v-10.48h59.85"/>
+								<path id="&lt;Path&gt;" class="s0" d="m705.5 416.01h-59.85v-7.93h59.85z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m782.23 416.01h-59.85v-7.93h59.85z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m645.65 408.08l-19.07-32.95 32.98 12.67h108.6l32.99-12.67-19.07 32.95"/>
+								<path id="&lt;Path&gt;" class="s0" d="m684.12 430.59h-18.31v-14.58h18.31z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m684.12 513.04h-18.31v-71.97h18.31z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m761.46 430.59h-18.31v-14.58h18.31z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m761.46 513.04h-18.31v-71.97h18.31z"/>
+							</g>
+							<path id="&lt;Path&gt;" class="s0" d="m688.71 520.5h-28.65v-7.46h28.65z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m766.63 520.5h-28.65v-7.46h28.65z"/>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s0" d="m259.68 520.5h-233.28l7.38-48.81h216.25z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m31.44 520.5l5.3-37.5"/>
+								<path id="&lt;Path&gt;" class="s0" d="m243.78 443.31h-202.06v28.38h202.06z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m33.16 475.77h217.67"/>
+								<path id="&lt;Path&gt;" class="s0" d="m15.05 429.12c1.7 0 254.28 0 254.28 0l-25.55 14.19h-202.06z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m238.89 429.12h-192.39v-25.26h192.39z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m41.72 447.04h202.06"/>
+								<path id="&lt;Path&gt;" class="s0" d="m41.72 466.92h202.06"/>
+								<path id="&lt;Path&gt;" class="s0" d="m46.5 425.63h192.39"/>
+								<path id="&lt;Path&gt;" class="s0" d="m46.5 408.15h192.39"/>
+								<path id="&lt;Path&gt;" class="s0" d="m69.38 307.38l-22.88-7.58 27.08-13.62h139.24l26.07 13.62-23.75 7.58"/>
+								<path id="&lt;Path&gt;" class="s0" d="m46.5 299.8h192.39"/>
+								<path id="&lt;Path&gt;" class="s0" d="m84.61 266.13l-26.71-10.6 27.08-24.64h114.49l26.06 24.64-26.71 10.6"/>
+								<path id="&lt;Path&gt;" class="s0" d="m57.9 255.53h167.63"/>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s0" d="m131.53 403.86l6.7-6.71-5.63-0.04-43.41-35-43.41 35-5.63 0.04 6.7 6.71z"/>
+									<path id="&lt;Path&gt;" class="s0" d="m132.6 397.11h-86.82"/>
+									<path id="&lt;Path&gt;" class="s0" d="m96.49 378.49c0 4.03-3.27 7.3-7.3 7.3-4.03 0-7.31-3.27-7.31-7.3 0-4.04 3.28-7.31 7.31-7.31 4.03 0 7.3 3.27 7.3 7.31z"/>
+									<g id="&lt;Group&gt;">
+										<path id="&lt;Path&gt;" class="s0" d="m89.19 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m84.65 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m80.12 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m75.58 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m71.04 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m66.51 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m61.97 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m57.43 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m52.9 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m48.36 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m129.58 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m125.05 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m120.51 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m115.97 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m111.44 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m106.9 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m102.36 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m97.83 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m93.29 397.11v6.75"/>
+									</g>
+									<g id="&lt;Group&gt;">
+										<path id="&lt;Path&gt;" class="s0" d="m196.55 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m192.02 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m187.48 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m182.94 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m178.41 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m173.87 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m169.33 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m164.8 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m160.26 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m155.72 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m236.95 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m232.41 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m227.87 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m223.34 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m218.8 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m214.26 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m209.73 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m205.19 397.11v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m200.65 397.11v6.75"/>
+									</g>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s0" d="m185.37 351.81l6.71-6.71-5.63-0.04-43.41-35-43.41 35-5.63 0.04 6.7 6.71z"/>
+									<path id="&lt;Path&gt;" class="s0" d="m99.63 345.06h86.82"/>
+									<g id="&lt;Group&gt;">
+										<path id="&lt;Path&gt;" class="s0" d="m143.26 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m138.72 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m134.18 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m129.65 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m125.11 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m120.57 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m116.04 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m111.5 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m106.96 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m102.43 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m183.65 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m179.11 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m174.58 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m170.04 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m165.5 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m160.97 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m156.43 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m151.89 345.06v6.75"/>
+										<path id="&lt;Path&gt;" class="s0" d="m147.36 345.06v6.75"/>
+									</g>
+									<path id="&lt;Path&gt;" class="s0" d="m150.34 326.44c0 4.03-3.27 7.3-7.3 7.3-4.04 0-7.31-3.27-7.31-7.3 0-4.04 3.27-7.31 7.31-7.31 4.03 0 7.3 3.27 7.3 7.31z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s0" d="m239.2 403.86l6.7-6.71-5.63-0.04-43.41-35-43.41 35-5.63 0.04 6.7 6.71z"/>
+									<path id="&lt;Path&gt;" class="s0" d="m153.45 397.11h87.74"/>
+									<path id="&lt;Path&gt;" class="s0" d="m204.16 378.49c0 4.03-3.27 7.3-7.3 7.3-4.04 0-7.31-3.27-7.31-7.3 0-4.04 3.27-7.31 7.31-7.31 4.03 0 7.3 3.27 7.3 7.31z"/>
+								</g>
+								<path id="&lt;Path&gt;" class="s0" d="m66.16 380.67v-28.86h152.31v27.72"/>
+								<path id="&lt;Path&gt;" class="s0" d="m66.16 351.81l-19.66-11.11 22.88-14.26h53.34"/>
+								<path id="&lt;Path&gt;" class="s0" d="m218.29 351.81l19.67-11.11-22.88-14.26h-50.84"/>
+								<path id="&lt;Path&gt;" class="s0" d="m69.38 326.44v-19.06h145.76v19.06"/>
+								<path id="&lt;Path&gt;" class="s0" d="m198.82 286.18h-114.21v-20.05h114.21z"/>
+								<path id="&lt;Path&gt;" class="s0" d="m54.13 295.96v-23.43h30.48"/>
+								<path id="&lt;Path&gt;" class="s0" d="m231.54 295.96v-23.43h-32.72"/>
+								<path id="&lt;Path&gt;" class="s0" d="m233.26 337.78v-23.53h-18.12"/>
+								<path id="&lt;Path&gt;" class="s0" d="m50.2 337.78v-23.53h18.13"/>
+								<path id="&lt;Path&gt;" class="s0" d="m66.16 359.22h-26.01v23.77h23.15"/>
+								<path id="&lt;Path&gt;" class="s0" d="m222.75 382.99h21.03v-23.77h-25.31"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m106.8 278.34h-3.64v-5.81h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m125.83 278.34h-3.64v-5.81h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m144.86 278.34h-3.64v-5.81h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m163.88 278.34h-3.63v-5.81h3.63z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m182.91 278.34h-3.63v-5.81h3.63z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m106.8 369.15h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m125.83 369.15h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m144.86 369.15h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m163.88 369.15h-3.63v-5.82h3.63z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m182.91 369.15h-3.63v-5.82h3.63z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m60.26 419.4h-3.64v-5.82h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m79.28 419.4h-3.63v-5.82h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m98.31 419.4h-3.63v-5.82h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m117.34 419.4h-3.64v-5.82h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m136.37 419.4h-3.64v-5.82h3.64z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m153.32 419.4h-3.64v-5.82h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m172.34 419.4h-3.63v-5.82h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m191.37 419.4h-3.63v-5.82h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m210.4 419.4h-3.64v-5.82h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m229.43 419.4h-3.64v-5.82h3.64z"/>
+								</g>
+							</g>
+							<g id="&lt;Group&gt;">
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m60.26 462.86h-3.64v-11.17h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m79.28 462.86h-3.63v-11.17h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m98.31 462.86h-3.63v-11.17h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m117.34 462.86h-3.64v-11.17h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m136.37 462.86h-3.64v-11.17h3.64z"/>
+								</g>
+								<g id="&lt;Group&gt;">
+									<path id="&lt;Path&gt;" class="s2" d="m153.32 462.86h-3.64v-11.17h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m172.34 462.86h-3.63v-11.17h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m191.37 462.86h-3.63v-11.17h3.63z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m210.4 462.86h-3.64v-11.17h3.64z"/>
+									<path id="&lt;Path&gt;" class="s2" d="m229.43 462.86h-3.64v-11.17h3.64z"/>
+								</g>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m82.47 319.82h-3.63v-5.82h3.63z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m101.5 319.82h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m120.53 319.82h-3.64v-5.82h3.64z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m167.52 319.82h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m186.55 319.82h-3.64v-5.82h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m205.58 319.82h-3.64v-5.82h3.64z"/>
+							</g>
+							<g id="&lt;Group&gt;">
+								<path id="&lt;Path&gt;" class="s2" d="m106.8 249.23h-3.64v-10.01h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m125.83 249.23h-3.64v-10.01h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m144.86 249.23h-3.64v-10.01h3.64z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m163.88 249.23h-3.63v-10.01h3.63z"/>
+								<path id="&lt;Path&gt;" class="s2" d="m182.91 249.23h-3.63v-10.01h3.63z"/>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m922.82 520.5h-140.59v-35.81h140.59z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m922.82 463.73h-140.59l29.72-13.33h81.16z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m782.23 513.26h140.59"/>
+							<path id="&lt;Path&gt;" class="s0" d="m810.81 513.26v-28.57"/>
+							<path id="&lt;Path&gt;" class="s0" d="m839 513.26v-28.57"/>
+							<path id="&lt;Path&gt;" class="s0" d="m866.43 513.26v-28.57"/>
+							<path id="&lt;Path&gt;" class="s0" d="m893.11 513.26v-28.57"/>
+							<path id="&lt;Path&gt;" class="s0" d="m909.49 484.69h-113.16v-20.96h113.16z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m796.33 475.93h113.16"/>
+							<path id="&lt;Path&gt;" class="s0" d="m860.07 412.18h-15.09c0 0-33.85 12.14-54.53 12.4 0 0 18.2 15.25 62.08 0 43.88 15.25 62.07 0 62.07 0-20.67-0.26-54.53-12.4-54.53-12.4z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m811.95 450.4v-19.04"/>
+							<path id="&lt;Path&gt;" class="s0" d="m893.11 450.4v-19.04"/>
+							<path id="&lt;Path&gt;" class="s0" d="m859.08 400.47h-13.32v11.71h13.32z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m862.41 400.47h-21.47l10.73-9.82z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m841.94 433.09h-14.98v12.31h14.98z"/>
+							<path id="&lt;Path&gt;" class="s0" d="m878.38 433.09h-14.98v12.31h14.98z"/>
+						</g>
+					</g>
+					<path id="&lt;Path&gt;" class="s0" d="m26.4 520.5h-106.36"/>
+					<path id="&lt;Path&gt;" class="s0" d="m623.26 520.5h542.7"/>
+				</g>
+				
+			</g>
+		</g>
+	</g>
+</svg>
